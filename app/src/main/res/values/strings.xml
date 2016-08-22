@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Merge</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="music_array">
+        <item>Pick alarm sound!</item>
+        <item>Aint It Fun</item>
+        <item>Brighter</item>
+        <item>Endlessly</item>
+        <item>Fearless</item>
+        <item>Gravity</item>
+        <item>Hair</item>
+        <item>Haunted</item>
+        <item>I Found A Girl</item>
+        <item>Kill Em With Kindness</item>
+        <item>Our Song</item>
+        <item>Outlaws</item>
+        <item>Overdose</item>
+        <item>Paralyzed</item>
+        <item>Red</item>
+        <item>Salute</item>
+        <item>Scars To Your Beautiful</item>
+        <item>Superman</item>
+        <item>Talk</item>
+        <item>Welcome To New York</item>
+        <item>Wonderland</item>
+    </string-array>
+</resources>
